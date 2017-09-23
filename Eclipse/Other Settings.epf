@@ -10,4 +10,5 @@
 /instance/org.eclipse.ui.ide/EXIT_PROMPT_ON_CLOSE_LAST_WINDOW=false
 /instance/org.eclipse.ui.ide/quickStart=true
 /instance/org.eclipse.ui.ide/tipsAndTricks=false
+/instance/org.eclipse.ui/showIntro=false
 file_export_version=3.0
