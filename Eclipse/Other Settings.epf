@@ -1,5 +1,6 @@
 #Sat Sep 23 14:03:24 CEST 2017
 \!/=
+/configuration/org.eclipse.ui.ide/SHOW_WORKSPACE_SELECTION_DIALOG=false
 /instance/org.eclipse.core.resources/encoding=UTF-8
 /instance/org.eclipse.core.resources/refresh.enabled=true
 /instance/org.eclipse.core.runtime/line.separator=\n
