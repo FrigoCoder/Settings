@@ -2,6 +2,49 @@
 \!/=
 
 
+# Errors / Warnings
+
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.annotation.inheritNullAnnotations=enabled
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.annotation.nullanalysis=enabled
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.deprecationInDeprecatedCode=enabled
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.deprecationWhenOverridingDeprecatedMethod=enabled
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.emptyStatement=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.explicitlyClosedAutoCloseable=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.fallthroughCase=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.fieldHiding=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.includeNullInfoFromAsserts=enabled
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.indirectStaticAccess=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.localVariableHiding=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.missingDefaultCase=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.missingDeprecatedAnnotation=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.missingEnumCaseDespiteDefault=enabled
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.missingHashCodeMethod=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.missingOverrideAnnotation=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.missingSynchronizedOnInheritedMethod=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.nullAnnotationInferenceConflict=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.nullSpecViolation=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.parameterAssignment=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.possibleAccidentalBooleanAssignment=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.potentialNullReference=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.potentiallyUnclosedCloseable=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.redundantNullCheck=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.redundantSpecificationOfTypeArguments=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.redundantSuperinterface=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.syntacticNullAnalysisForFields=enabled
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.unlikelyCollectionMethodArgumentTypeStrict=enabled
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.unlikelyEqualsArgumentType=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.unnecessaryElse=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.unnecessaryTypeCheck=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.unusedDeclaredThrownException=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.unusedDeclaredThrownExceptionExemptExceptionAndThrowable=disabled
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.unusedDeclaredThrownExceptionIncludeDocCommentReference=disabled
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.unusedExceptionParameter=ignore
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.unusedObjectAllocation=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.unusedParameter=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.unusedParameterIncludeDocCommentReference=disabled
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.unusedTypeParameter=warning
+
+
 # Javadoc
 
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.invalidJavadoc=warning
@@ -126,7 +169,7 @@
 /instance/org.eclipse.ui.editors/warningTextStyle=NONE
 
 
-# Other settings
+# Uncategorized settings
 
 /configuration/org.eclipse.ui.ide/SHOW_WORKSPACE_SELECTION_DIALOG=false
 /instance/org.eclipse.core.resources/encoding=UTF-8
@@ -142,4 +185,5 @@
 /instance/org.eclipse.ui/showIntro=false
 
 
+@org.eclipse.jdt.core=3.13.50.v20171007-0855
 file_export_version=3.0
