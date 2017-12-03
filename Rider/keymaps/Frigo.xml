@@ -7,7 +7,7 @@
   <action id="Diff.FocusOppositePaneAndScroll" />
   <action id="EditorSelectWord" />
   <action id="EditorUnSelectWord" />
-  <action id="Macro.Format And Save">
+  <action id="Macro.Cleanup And Save">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
   <action id="NextTab">
