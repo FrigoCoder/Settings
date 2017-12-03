@@ -11,7 +11,7 @@
       <action id="SaveDocument" />
     </macro>
     <macro name="Cleanup And Save">
-      <action id="CodeCleanup" />
+      <action id="RdCodeCleanupAction" />
       <action id="SaveDocument" />
     </macro>
   </component>
