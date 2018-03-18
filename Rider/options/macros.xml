@@ -1,17 +1,7 @@
 <application>
   <component name="ActionMacroManager">
-    <macro name="Format and Save All">
-      <action id="OptimizeImports" />
-      <action id="ReformatCode" />
-      <action id="SaveAll" />
-    </macro>
-    <macro name="Format And Save">
-      <action id="OptimizeImports" />
-      <action id="ReformatCode" />
-      <action id="SaveDocument" />
-    </macro>
     <macro name="Cleanup And Save">
-      <action id="RdCodeCleanupAction" />
+      <action id="SilentCodeCleanup" />
       <action id="SaveDocument" />
     </macro>
   </component>
