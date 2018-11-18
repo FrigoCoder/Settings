@@ -6,9 +6,11 @@
 
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.annotation.inheritNullAnnotations=enabled
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.annotation.nullanalysis=enabled
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.assertIdentifier=error
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.deprecationInDeprecatedCode=enabled
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.deprecationWhenOverridingDeprecatedMethod=enabled
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.emptyStatement=warning
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.enumIdentifier=error
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.explicitlyClosedAutoCloseable=warning
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.fallthroughCase=warning
 /instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.fieldHiding=warning
@@ -185,5 +187,5 @@
 /instance/org.eclipse.ui/showIntro=false
 
 
-@org.eclipse.jdt.core=3.13.50.v20171007-0855
+@org.eclipse.jdt.core=3.15.0.v20180905-0317
 file_export_version=3.0
