@@ -1,0 +1,8 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="Cleanup And Save">
+      <action id="SilentCodeCleanup" />
+      <action id="SaveDocument" />
+    </macro>
+  </component>
+</application>
